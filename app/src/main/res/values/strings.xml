@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">LADM_U1_PRACTICA1_LAYOUTS</string>
+    <string name="activity1_title">100 BRILLIANT</string>
+    <string name="activity1_sub">Color Combinations</string>
+    <string name="activity2_title">TIPS TO BUILD A LANGUAGE LEARNING HABIT</string>
+    <string name="activity2_habit">+ Free New Habit Tracker!</string>
+
+    <!-- Actividad 3-->
+    <string name="activity3_titile">18 Educational Android Apps for Teachers</string>
+    <string name="activity3_row1">Android Note Taking Apps</string>
+    <string name="activity3_row2">Android Portfolio Apps</string>
+    <string name="activity3_row3">Android Presentation Apps</string>
+    <string name="activity3_row4">Android Reference Apps</string>
+    <string name="activity3_row5">Android Video Apps</string>
+    <string name="activity3_row6">Android Mind Mapping Apps</string>
+    <string name="google_Keep">Google Keep</string>
+    <string name="Evernote">Evernote</string>
+    <string name="Onenote">OneNote</string>
+    <string name="Weebly">Weebly</string>
+    <string name="Ring">Ring</string>
+    <string name="Seesaw">Seesaw</string>
+    <string name="google_Side">Google Slide</string>
+    <string name="Powerpoint">PowerPoint</string>
+    <string name="Prezi">Prezi Viewer</string>
+    <string name="Easybib">EasyBib</string>
+    <string name="Citethis">Cite This For Me</string>
+    <string name="Mendeley">Mendeley</string>
+    <string name="Magisto">Magisto Video Editor Maker</string>
+    <string name="Video">Video Editor</string>
+    <string name="Animato">Animato</string>
+    <string name="SimpleMind">SimpleMind</string>
+    <string name="MindMeister">MindMeister</string>
+    <string name="Mindomo">Mindomo</string>
+
+    <!-- Actividad 4-->
+    <string name="title_activity_main4">MainActivity</string>
+    <string name="activity4_Demonst">Demonst.</string>
+    <string name="activity4_Formal">Formal Md.</string>
+    <string name="activity4_Polite">Polite</string>
+    <string name="activity4_Food">Food</string>
+    <string name="activity4_Pronouns">Pronouns</string>
+    <string name="activity4_Animal">Animal</string>
+    <string name="activity4_Hand">Hand Shake</string>
+    <string name="activity4_Setting">Setting</string>
+    <string name="menu_Title">Practica Layouts</string>
+    <string name="menu_Actividad1">Actividad 1</string>
+    <string name="menu_Actividad2">Actividad 2</string>
+    <string name="menu_Actividad3">Actividad 3</string>
+    <string name="menu_Actividad4">Actividad 4</string>
+</resources>
